@@ -164,8 +164,11 @@
     .social-links {
       display: grid;
       gap: 16px;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       margin-top: 40px;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
     }
     .social-card {
       display: flex;
@@ -173,14 +176,14 @@
       align-items: center;
       justify-content: center;
       gap: 12px;
-      padding: 32px 24px;
+      padding: 20px 16px;
       background: rgba(255,255,255,0.04);
       border: 1px solid rgba(255,255,255,0.08);
       border-radius: 20px;
       text-decoration: none;
       color: var(--text);
       font-weight: 600;
-      font-size: 1.1rem;
+      font-size: 0.95rem;
       transition: all 0.25s ease;
     }
     .social-card:hover {
@@ -189,7 +192,7 @@
       transform: translateY(-4px);
     }
     .social-card span:first-child {
-      font-size: 2.5rem;
+      font-size: 2rem;
     }
     footer {
       padding: 24px;
