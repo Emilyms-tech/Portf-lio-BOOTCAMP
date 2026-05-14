@@ -9,3 +9,7 @@ Além da parte visual e estrutural do site, o projeto também teve como foco a p
 🌐 Acesse o portfólio em:
 
 👉 https://emilyms-tech.github.io/Portf-lio-BOOTCAMP/
+
+* Meu Linkedin:
+  https://www.linkedin.com/in/emily-mendes-silva/
+  
