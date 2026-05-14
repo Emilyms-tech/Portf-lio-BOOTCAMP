@@ -5,3 +5,11 @@ Este repositório contém o desenvolvimento do meu portfólio pessoal, criado co
 O portfólio foi desenvolvido para reunir informações sobre minha trajetória, projetos e habilidades, servindo como um espaço para acompanhar minha evolução na área de tecnologia e compartilhar os projetos que venho construindo durante minha jornada de aprendizado.
 
 Além da parte visual e estrutural do site, o projeto também teve como foco a prática de versionamento com Git e publicação utilizando GitHub Pages, permitindo uma experiência mais próxima do fluxo de desenvolvimento utilizado em projetos reais.
+
+🌐 Acesse o portfólio em:
+
+👉 https://emilyms-tech.github.io/Portf-lio-BOOTCAMP/
+
+* Meu Linkedin:
+  https://www.linkedin.com/in/emily-mendes-silva/
+  
